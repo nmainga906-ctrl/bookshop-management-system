@@ -1,2 +1,17 @@
-# bookshop-management-system
-A simple bookshop management system built using java(swing) and MySQL to manage a bookshop.
+View available books 
+Update book details  
+Delete books from the system  
+Manage stock  
+
+ Tech Stac
+ Java (Swing GUI)
+ MySQL Database
+JDBC (Java Database Connectivity)
+NetBeans IDE
+
+
+Installation & Setup
+
+ Clone the repository:
+   ```bash
+   git clone https://github.com/nmainga906-ctrl/bookshop-management-system.git
