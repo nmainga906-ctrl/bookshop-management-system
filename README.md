@@ -3,7 +3,7 @@ Update book details
 Delete books from the system  
 Manage stock  
 
- Tech Stac
+ Tech Stack
  Java (Swing GUI)
  MySQL Database
 JDBC (Java Database Connectivity)
